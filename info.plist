@@ -7,7 +7,7 @@
 	<key>contactName</key>
 	<string>Ethan Randall</string>
 	<key>description</key>
-	<string>Syntax highlight for the &lt;a href="http://tools.ietf.org/html/rfc2445"&gt;Desktop Entry&lt;/a&gt;.</string>
+	<string>Syntax highlight for the &lt;a href="http://standards.freedesktop.org/desktop-entry-spec/latest"&gt;Desktop Entry&lt;/a&gt;.</string>
 	<key>name</key>
 	<string>Desktop Entry</string>
 	<key>ordering</key>

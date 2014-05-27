@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>scope</key>
+	<string>keyword.desktopentry,constant.language.desktopentry</string>
+	<key>uuid</key>
+	<string>C370BBB2-5903-48C7-A906-6E4930B7CA4E</string>
+	<key>settings</key>
+	<dict>
+		<key>showInSymbolList</key>
+		<integer>1</integer>
+		<key>symbolTransformation</key>
+		<string>s/.*/    $0/g</string>
+	</dict>
+	<key>name</key>
+	<string>Symbol List-Entries</string>
+</dict>
+</plist>

@@ -1,0 +1,282 @@
+[$Version]
+update_info=kded.upd:kde3.0
+
+[Appmenu Style]
+Style=Others
+
+[ColorEffects:Disabled]
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive][test]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=211,208,205
+BackgroundNormal=223,220,217
+DecorationFocus=58,167,221
+DecorationHover=110,214,255
+ForegroundActive=146,76,157
+ForegroundInactive=34,31,30
+ForegroundLink=27,123,174
+ForegroundNegative=144,15,15
+ForegroundNeutral=144,143,15
+ForegroundNormal=34,31,30
+ForegroundPositive=17,143,15
+ForegroundVisited=28,104,144
+
+[Colors:Selection]
+BackgroundAlternate=78,177,233
+BackgroundNormal=67,172,232
+DecorationFocus=58,167,221
+DecorationHover=110,214,255
+ForegroundActive=108,36,119
+ForegroundInactive=255,255,255
+ForegroundLink=27,123,174
+ForegroundNegative=255,127,127
+ForegroundNeutral=255,255,127
+ForegroundNormal=255,255,255
+ForegroundPositive=127,255,127
+ForegroundVisited=28,104,144
+
+[Colors:Tooltip]
+BackgroundAlternate=45,42,41
+BackgroundNormal=34,31,30
+DecorationFocus=58,167,221
+DecorationHover=110,214,255
+ForegroundActive=255,128,224
+ForegroundInactive=214,210,208
+ForegroundLink=27,123,174
+ForegroundNegative=234,105,104
+ForegroundNeutral=234,232,104
+ForegroundNormal=214,210,208
+ForegroundPositive=107,232,104
+ForegroundVisited=28,104,144
+
+[Colors:View]
+BackgroundAlternate=241,240,240
+BackgroundNormal=255,255,255
+DecorationFocus=58,167,221
+DecorationHover=110,214,255
+ForegroundActive=146,76,157
+ForegroundInactive=31,28,27
+ForegroundLink=27,123,174
+ForegroundNegative=143,14,13
+ForegroundNeutral=143,141,13
+ForegroundNormal=31,28,27
+ForegroundPositive=15,141,13
+ForegroundVisited=28,104,144
+
+[Colors:Window]
+BackgroundAlternate=202,198,196
+BackgroundNormal=214,210,208
+DecorationFocus=58,167,221
+DecorationHover=110,214,255
+ForegroundActive=146,76,157
+ForegroundInactive=34,31,30
+ForegroundLink=27,123,174
+ForegroundNegative=144,15,15
+ForegroundNeutral=144,143,15
+ForegroundNormal=34,31,30
+ForegroundPositive=17,143,15
+ForegroundVisited=28,104,144
+
+[DesktopIcons]
+ActiveColor=169,156,255
+ActiveColor2=0,0,0
+ActiveEffect=togamma
+ActiveSemiTransparent=false
+ActiveValue=0.7
+Animated=true
+DefaultColor=144,128,248
+DefaultColor2=0,0,0
+DefaultEffect=none
+DefaultSemiTransparent=false
+DefaultValue=1
+DisabledColor=34,202,0
+DisabledColor2=0,0,0
+DisabledEffect=togray
+DisabledSemiTransparent=true
+DisabledValue=1
+Size=48
+
+[DialogIcons]
+ActiveColor=169,156,255
+ActiveColor2=0,0,0
+ActiveEffect=none
+ActiveSemiTransparent=false
+ActiveValue=1
+Animated=false
+DefaultColor=144,128,248
+DefaultColor2=0,0,0
+DefaultEffect=none
+DefaultSemiTransparent=false
+DefaultValue=1
+DisabledColor=34,202,0
+DisabledColor2=0,0,0
+DisabledEffect=togray
+DisabledSemiTransparent=true
+DisabledValue=1
+Size=32
+
+[DirSelect Dialog]
+DirSelectDialog Size=910,512
+History Items[$e]=file:///media/Media/iTunes,file:///media/Media/Music/Pierce The Veil,file://$HOME/Documents/Calibre/test2
+
+[General]
+BrowserApplication[$e]=!firefox
+ColorScheme=Default
+XftAntialias=true
+XftSubPixel=rgb
+dbfile=/home/ethan/.mozilla/firefox/j0nb0dk7.default/places.sqlite
+desktopFont=Helvetica Neue,9,-1,5,50,0,0,0,0,0
+fixed=Monospace,9,-1,5,50,0,0,0,0,0
+font=Sans Serif,9,-1,5,50,0,0,0,0,0
+shadeSortColumn=true
+widgetStyle=bespin
+
+[Icons]
+Theme=MakLionTaste
+
+[KDE]
+NaturalSorting=false
+ShowDeleteCommand=true
+ShowIconsInMenuItems=true
+ShowIconsOnPushButtons=true
+SingleClick=false
+contrast=10
+
+[KDE-Global GUI Settings]
+GraphicEffectsLevel=1
+
+[KFileDialog Settings]
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=0
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Preview Width=205
+Previews=false
+Recent URLs[$e]=$HOME/.kde/share/apps/knotes/,$HOME/Dropbox/,$HOME/Downloads/,/usr/share/kde4/apps/katexmltools/,/tmp/,$HOME/Pictures/
+Show Bookmarks=false
+Show Full Path=false
+Show Preview=false
+Show Speedbar=true
+Show hidden files=true
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+Speedbar Width=149
+View Style=Simple
+
+[KShortcutsDialog Settings]
+Dialog Size=603,480
+
+[Locale]
+Country=us
+
+[MainToolbarIcons]
+ActiveColor=169,156,255
+ActiveColor2=0,0,0
+ActiveEffect=none
+ActiveSemiTransparent=false
+ActiveValue=1
+Animated=false
+DefaultColor=144,128,248
+DefaultColor2=0,0,0
+DefaultEffect=none
+DefaultSemiTransparent=false
+DefaultValue=1
+DisabledColor=34,202,0
+DisabledColor2=0,0,0
+DisabledEffect=togray
+DisabledSemiTransparent=true
+DisabledValue=1
+Size=22
+
+[PanelIcons]
+ActiveColor=169,156,255
+ActiveColor2=0,0,0
+ActiveEffect=none
+ActiveSemiTransparent=false
+ActiveValue=0.7
+Animated=false
+DefaultColor=144,128,248
+DefaultColor2=0,0,0
+DefaultEffect=none
+DefaultSemiTransparent=false
+DefaultValue=1
+DisabledColor=34,202,0
+DisabledColor2=0,0,0
+DisabledEffect=togray
+DisabledSemiTransparent=true
+DisabledValue=1
+Size=32
+
+[PreviewSettings]
+MaximumRemoteSize=0
+
+[SmallIcons]
+ActiveColor=169,156,255
+ActiveColor2=0,0,0
+ActiveEffect=none
+ActiveSemiTransparent=false
+ActiveValue=1
+Animated=false
+DefaultColor=144,128,248
+DefaultColor2=0,0,0
+DefaultEffect=none
+DefaultSemiTransparent=false
+DefaultValue=1
+DisabledColor=34,202,0
+DisabledColor2=0,0,0
+DisabledEffect=togray
+DisabledSemiTransparent=true
+DisabledValue=1
+Size=16
+
+[Toolbar style]
+ToolButtonStyleOtherToolbars=TextBesideIcon
+
+[ToolbarIcons]
+ActiveColor=169,156,255
+ActiveColor2=0,0,0
+ActiveEffect=none
+ActiveSemiTransparent=false
+ActiveValue=1
+Animated=false
+DefaultColor=144,128,248
+DefaultColor2=0,0,0
+DefaultEffect=none
+DefaultSemiTransparent=false
+DefaultValue=1
+DisabledColor=34,202,0
+DisabledColor2=0,0,0
+DisabledEffect=togray
+DisabledSemiTransparent=true
+DisabledValue=1
+Size=22
+
+[WM]
+activeBackground=48,174,232
+activeBlend=48,174,232
+activeFont=Ubuntu,10,-1,5,50,0,0,0,0,0
+activeForeground=255,255,255
+activeTitleBtnBg=34,31,30
+inactiveBackground=224,223,222
+inactiveBlend=224,223,222
+inactiveForeground=75,71,67
+inactiveTitleBtnBg=34,31,30

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>iJunkie22@gmail.com</string>
+	<key>contactName</key>
+	<string>Ethan Randall</string>
+	<key>description</key>
+	<string>Syntax highlight for the &lt;a href="http://tools.ietf.org/html/rfc2445"&gt;Desktop Entry&lt;/a&gt;.</string>
+	<key>name</key>
+	<string>Desktop Entry</string>
+	<key>ordering</key>
+	<array>
+		<string>93FFF865-D718-42F4-A410-414118146CB2</string>
+		<string>7C1F59BE-CCC8-4E6A-A13B-AC1F663EABFC</string>
+		<string>C370BBB2-5903-48C7-A906-6E4930B7CA4E</string>
+	</array>
+	<key>uuid</key>
+	<string>97FD6CCD-149B-411F-86EF-08F5368D72C7</string>
+</dict>
+</plist>
